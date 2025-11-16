@@ -1,4 +1,4 @@
-# 💫 About Me: Software Developer mainly working on frontend 
+# 💫 Software Developer mainly working on frontend 
 🔭 I’m currently working as a freelancer<br>👯 Open for collaborations<br>🤝 Open for opportunities <br>🌱 Curious for learning new things <br>💬 About me<br>
 
 
